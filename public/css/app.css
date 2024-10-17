@@ -1,0 +1,4 @@
+.comic-image {
+    max-height: 300px; /* Set your desired height */
+    object-fit: cover; /* Maintain aspect ratio and cover the container */
+}
